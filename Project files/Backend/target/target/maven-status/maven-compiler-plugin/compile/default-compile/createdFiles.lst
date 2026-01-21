@@ -1,0 +1,5 @@
+com\enterprise\workflow\model\Notification.class
+com\enterprise\workflow\controller\WorkflowInstanceController.class
+com\enterprise\workflow\dto\UserDTO.class
+com\enterprise\workflow\controller\AnalyticsController.class
+com\enterprise\workflow\dto\UserDTO$UserDTOBuilder.class
